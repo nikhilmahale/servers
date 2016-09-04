@@ -1,7 +1,7 @@
-/********************************************/
-// Description: Common server client program
-// Language: C
-/********************************************/
+/********************************************
+* Description: Common server client program
+* Language: C
+********************************************/
 #include"stdio.h"  
 #include"stdlib.h"  
 #include"sys/types.h"  
