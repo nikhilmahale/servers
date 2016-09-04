@@ -1,6 +1,6 @@
 /********************************************
 * Description: Common server client program
-* Language: C**
+* Language: C
 ********************************************/
 #include"stdio.h"  
 #include"stdlib.h"  
