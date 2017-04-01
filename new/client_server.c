@@ -15,6 +15,8 @@
 #define BUF_SIZE 2000  
 #define CLADDR_LEN 100
 
+/* Comment from eclipse */
+
 char * whoAmI;
 //enum whoAmI { 
 //SERVER, /
