@@ -1,7 +1,7 @@
 /*
 Author: Nikhil Mahale
-Description: Code to perform selection sort of values
-             provided via command line
+Description: Code to perform bubble sort of values
+             provided via random number generator
  */
 #include <iostream>
 using namespace std;
